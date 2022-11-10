@@ -1,4 +1,4 @@
-![](/DRCreateCase/images/ahlsbanner.png)
+![](/images/ahlsbanner.png)
 <h1>A-HLS DRCreateCase<h1>
 
 <h2>Overview</h2>
